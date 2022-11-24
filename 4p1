@@ -1,0 +1,21 @@
+a=int(input('enter a'))
+b=int(input('enter b'))
+print("a+b",a+b)
+print("a-b",a-b)
+print("a*b",a*b)
+print("a/b",a/b)
+print("a**b",a**b)
+print("a//b",a//b)
+
+
+
+
+output:
+enter a2
+enter b3
+a+b 5
+a-b -1
+a*b 6
+a/b 0.6666666666666666
+a**b 8
+a//b 0
